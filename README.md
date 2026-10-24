@@ -1,5 +1,6 @@
 # 🔍 Search Agent 🤖
 
+https://github.com/user-attachments/assets/ec157bc1-c3b0-434d-ac21-bb212f929643
 
 > 🎥 Watch **Search Agent** in action! 🔎
 
