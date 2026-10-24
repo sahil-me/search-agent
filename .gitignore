@@ -1,0 +1,38 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local tooling and lab state
+.adk/
+.cache/
+*.bak
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Nested caches and local agent state
+**/__pycache__/
+**/.cache/
+**/.adk/
+**/.vscode/
+**/cache/
+
+# Credentials and private keys
+*.pem
+*.key
+**/credentials.json
+**/service-account*.json
