@@ -268,9 +268,43 @@ search-agent/
 
 This section will showcase the **Search Agent** interface, example conversations, paint-selection workflow, and deployment.
 
-### Paint Agent Interface
+### Search Agent Interface
 
+<img width="1366" height="768" alt="Search Agent Interface" src="https://github.com/user-attachments/assets/35a5d639-4cd3-4d11-95f8-98351032bf59" />
 
+### Google Cloud Project Dashboard
+
+<img width="1366" height="768" alt="Google Cloud Project Dashboard" src="https://github.com/user-attachments/assets/fb203de1-61a3-4027-bf59-338ab2889b9c" />
+
+### Project Source Code
+
+<img width="1366" height="768" alt="Project Source Code-1" src="https://github.com/user-attachments/assets/dfa98e05-80f5-40b5-b0c0-eb3f5260794b" />
+<img width="1363" height="766" alt="Project Source Code-2" src="https://github.com/user-attachments/assets/59b82dcb-995f-4670-9ff7-619335a6779c" />
+<img width="1366" height="768" alt="Project Source Code-3" src="https://github.com/user-attachments/assets/f5d0bc7b-f684-4138-b01b-77cdec65d393" />
+<img width="1366" height="768" alt="Project Source Code-4" src="https://github.com/user-attachments/assets/98ea56e1-2b3c-4948-ae7e-821d80253c06" />
+<img width="1366" height="768" alt="Project Source Code-5" src="https://github.com/user-attachments/assets/9bccf388-4910-4d8a-8467-b100e0b27e8c" />
+
+### Cloud Storage Buckets
+
+<img width="1366" height="768" alt="Cloud Storage Buckets-1" src="https://github.com/user-attachments/assets/b835a5a7-06f0-46ee-8da1-a903a8653de0" />
+<img width="1366" height="768" alt="Cloud Storage Buckets-2" src="https://github.com/user-attachments/assets/a0bb42cd-efd1-44ce-940a-77e13a7d88af" />
+
+### Cloud Shell Terminal
+
+<img width="1366" height="768" alt="Cloud Shell Terminal-1" src="https://github.com/user-attachments/assets/8c790603-bbf6-494a-aee5-e27c0356e5a8" />
+<img width="1366" height="768" alt="Cloud Shell Terminal-2" src="https://github.com/user-attachments/assets/eb1ff396-2b5e-4dd2-a8da-3621834988f2" />
+<img width="1366" height="768" alt="Cloud Shell Terminal-3" src="https://github.com/user-attachments/assets/c630f9eb-e327-47e6-b1ff-0a7f691c29bd" />
+<img width="1366" height="768" alt="Cloud Shell Terminal-4" src="https://github.com/user-attachments/assets/da62207b-5811-470f-acf5-06de56a0ed23" />
+<img width="1366" height="768" alt="Cloud Shell Terminal-5" src="https://github.com/user-attachments/assets/3714295f-6832-4594-9292-9048286c0fb6" />
+
+### APIs & Services
+
+<img width="1366" height="768" alt="APIs and Services - 1" src="https://github.com/user-attachments/assets/2721394a-77f5-4b91-bb65-6adcf0984420" />
+<img width="1366" height="768" alt="APIs and Services - 2" src="https://github.com/user-attachments/assets/8af9f3fd-a5b5-4d85-a3dd-1b52f31b7d07" />
+
+### Cloud Storage Monitoring
+
+<img width="1366" height="768" alt="Cloud Storage Monitoring" src="https://github.com/user-attachments/assets/3dd921bb-fb61-4bd3-a3d4-3b3e6b3d93af" />
 
 ---
 
