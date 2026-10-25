@@ -424,7 +424,7 @@ For the official learning objectives, instructions, and any environment-specific
 
 ## Future Enhancements
 
-The following ideas could be considered for future versions of Search Agent:
+The following ideas could be considered for future versions of **Search Agent**:
 
 - **Improved Search Handling:** Enhance search-query construction, result relevance, and response grounding.
 - **Agent Evaluation:** Add repeatable test cases for agent behavior and response quality.
@@ -473,7 +473,7 @@ This repository is intended for educational and demonstration purposes. Do not c
 
 ## Contributing
 
-Contributions are welcome! If you would like to improve Search Agent, fix a bug, enhance an agent, add tests, or improve the documentation, please review the following guidelines:
+Contributions are welcome! If you would like to improve **Search Agent**, fix a bug, enhance an agent, add tests, or improve the documentation, please review the following guidelines:
 
 - [Contributing Guide](./CONTRIBUTING.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
