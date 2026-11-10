@@ -42,8 +42,6 @@ The project demonstrates practical concepts in AI agent development, including t
 
 This repository documents my implementation and learning with Google ADK, including the agent structure, supporting modules, dependencies, and related learning resources.
 
-The source code is associated with the following Google Skills learning resources:
-
 ---
 
 ## Architecture Diagram
